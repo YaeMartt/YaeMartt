@@ -11,7 +11,7 @@
 
 <br><br>
 
-<a href="https://instagram.com/yae.rom" target="_blank">
+<a href="https://instagram.com/yae.mart" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
