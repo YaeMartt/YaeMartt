@@ -79,8 +79,8 @@ Cuento con conocimientos básicos en infraestructura de redes, configuración de
     </tr>
     <tr>
       <td valign="top"><code>├─ frontend_foundations:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="HTML, CSS, Tailwind y Bootstrap"><br>
-        <sub><code>HTML · CSS · Tailwind · Bootstrap</code></sub>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS, Tailwind"><br>
+        <sub><code>HTML · CSS · Tailwind</code></sub>
       </td>
       <td valign="top"><code>├─ frontend_frameworks:</code><br><br>
         <img src="https://skillicons.dev/icons?i=react,vue" alt="React y Vue"><br>
