@@ -73,8 +73,8 @@ Cuento con conocimientos básicos en infraestructura de redes, configuración de
         <sub><code>Node.js · npm · pnpm</code></sub>
       </td>
       <td valign="top"><code>├─ backend_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=spring,laravel,dotnet" alt="Spring, Laravel y .NET"><br>
-        <sub><code>Spring · Laravel · .NET</code></sub>
+        <img src="https://skillicons.dev/icons?i=spring,laravel" alt="Spring y Laravel"><br>
+        <sub><code>Spring · Laravel</code></sub>
       </td>
     </tr>
     <tr>
@@ -83,8 +83,8 @@ Cuento con conocimientos básicos en infraestructura de redes, configuración de
         <sub><code>HTML · CSS · Tailwind · Bootstrap</code></sub>
       </td>
       <td valign="top"><code>├─ frontend_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue" alt="React, Next.js y Vue"><br>
-        <sub><code>React · Next.js · Vue</code></sub>
+        <img src="https://skillicons.dev/icons?i=react,vue" alt="React y Vue"><br>
+        <sub><code>React · Vue</code></sub>
       </td>
     </tr>
     <tr>
